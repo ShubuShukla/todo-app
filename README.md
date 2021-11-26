@@ -1,2 +1,2 @@
-# todo-app
-todo-app using JS and HTML
+ todo-app
+Very simple todo-app created using JS and HTML
